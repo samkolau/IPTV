@@ -1,0 +1,15 @@
+安徽视讯静态,#genre#
+安徽卫视,http://live.ahsx.ahtv.cn/live/ahwssx.m3u8?txSecret=5d9bb423b14e850c07d2ead6ec1e6e86&txTime=70db6800
+安徽公共,http://live.ahsx.ahtv.cn/live/ggtv.m3u8?txSecret=bf6e5dfcccfb9bc5ee1513eec0cd2307&txTime=70db6800
+安徽农业科教,http://live.ahsx.ahtv.cn/live/nykjtv.m3u8?txSecret=403760067744a1645bbf79a63bf4c2fd&txTime=70db6800
+安徽综艺体 育,http://live.ahsx.ahtv.cn/live/zytytv.m3u8?txSecret=a23d35a0b79adea92db0aa1cb5f18b06&txTime=70db6800
+安徽影视,http://live.ahsx.ahtv.cn/live/ystv.m3u8?txSecret=6a973e72be86a0ae7cccfc75bb4d537b&txTime=70db6800
+安徽经济生活,http://live.ahsx.ahtv.cn/live/jjshtv.m3u8?txSecret=90c3f69a99577ab3a7e05e13f9fcab9d&txTime=70db6800
+安徽国际,http://live.ahsx.ahtv.cn/live/gjtv.m3u8?txSecret=67176b04f5762569f28b4e59423cf3f9&txTime=70db6800
+安庆新闻综合,http://live.ahsx.ahtv.cn/live/aqpd.m3u8?txSecret=3135baf2090ac893fb82b6ff9f114d36&txTime=70db6800
+蚌埠新闻,http://live.ahsx.ahtv.cn/live/bbtv.m3u8?txSecret=0384cc59bc1a07e9497b6fd89a31213a&txTime=70db6800
+淮北新闻综合,http://live.ahsx.ahtv.cn/live/hbxw.m3u8?txSecret=04e60ecff2e5f8539fc57ce370ae70ff&txTime=70db6800
+六安综合,http://live.ahsx.ahtv.cn/live/latv.m3u8?txSecret=aca9fac261a345932aae830fad64970c&txTime=70db6800
+宿州新闻综合,http://live.ahsx.ahtv.cn/live/szxw.m3u8?txSecret=c40b436dae8b8a81d72d444256ebd8d1&txTime=70db6800
+芜湖新闻综合,http://live.ahsx.ahtv.cn/live/whxw.m3u8?txSecret=5a28c409c52749559bad424e84226e61&txTime=70db6800
+宣城综合,http://live.ahsx.ahtv.cn/live/xctv.m3u8?txSecret=e0dd62ab8bf4bba4a6e1e0ed53639019&txTime=70db6800
